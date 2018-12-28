@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEightBallServiceLib", "MagicEightBallServiceLib\MagicEightBallServiceLib.csproj", "{2F0464DC-97EF-4C18-8B56-B4F528C0181F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicEightBallServiceHost", "MagicEightBallServiceHost\MagicEightBallServiceHost.csproj", "{6B35CBF3-11F1-47A7-8676-21A03B8AF58A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F0464DC-97EF-4C18-8B56-B4F528C0181F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F0464DC-97EF-4C18-8B56-B4F528C0181F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F0464DC-97EF-4C18-8B56-B4F528C0181F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B35CBF3-11F1-47A7-8676-21A03B8AF58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B35CBF3-11F1-47A7-8676-21A03B8AF58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B35CBF3-11F1-47A7-8676-21A03B8AF58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B35CBF3-11F1-47A7-8676-21A03B8AF58A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
